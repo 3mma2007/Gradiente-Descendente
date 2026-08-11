@@ -19,7 +19,7 @@ El proceso incluye:
 
 ## 🛠️ Tecnologías utilizadas
 
-- Python 3
+- Python 
 - [pandas](https://pandas.pydata.org/)
 - [numpy](https://numpy.org/)
 - [matplotlib](https://matplotlib.org/)
@@ -60,11 +60,3 @@ El notebook imprime en pantalla:
 ├── Gradiente_Descendente.ipynb   # Notebook principal
 └── README.md                     # Este archivo
 ```
-
-## ✍️ Autor
-
-Agrega aquí tu nombre y, si quieres, un enlace a tu perfil de GitHub o LinkedIn.
-
-## 📄 Licencia
-
-Este proyecto se distribuye bajo la licencia que prefieras (por ejemplo, MIT). Agrega un archivo `LICENSE` si deseas especificarla formalmente.
